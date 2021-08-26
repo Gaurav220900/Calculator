@@ -1,2 +1,2 @@
-<h1>Calculator</h1>
-<h3>using html,css,js</h3>
+<h2>Calculator</h2>
+<h5>Using HTML,CSS and JS</h5>
